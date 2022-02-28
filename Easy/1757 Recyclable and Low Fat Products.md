@@ -1,5 +1,5 @@
 # 1757. Recyclable and Low Fat Products
-
+https://leetcode-cn.com/problems/recyclable-and-low-fat-products/  
 Table: Products 
 
 
