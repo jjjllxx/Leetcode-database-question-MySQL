@@ -1,5 +1,5 @@
 # 196. Delete Duplicate Emails
-
+https://leetcode.cn/problems/delete-duplicate-emails/   
 Table: Person
 
 | Column Name | Type    |
