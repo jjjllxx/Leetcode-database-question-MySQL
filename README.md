@@ -30,6 +30,11 @@ Python3 Version: [Leetcode-in-python](https://github.com/JinLexuan/Leetcode-in-p
 
 ## Medium
 [176. Second Highest Salary](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/0176%20Second%20Highest%20Salary.md)  
-[608. Tree Node](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/0608%20Tree%20Node.md)
+[608. Tree Node](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/0608%20Tree%20Node.md)  
+[1158. Market Analysis I](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/1158%20Market%20Analysis%20I.md)  
+[1193. Monthly Transactions I](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/1193%20Monthly%20Transactions%20I.md)  
+[1393. Capital Gain/Loss](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/1393%20Capital%20Gain%20Loss.md)  
+[1445. Apples & Oranges](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/1445%20Apples%20%26%20Oranges.md)  
+[1699. Number of Calls Between Two Persons](https://github.com/JinLexuan/Leetcode-database-question-MySQL/blob/main/Medium/1699%20Number%20of%20Calls%20Between%20Two%20Persons.md)  
 
 ## Hard
